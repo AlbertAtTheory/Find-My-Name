@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="imgareaselect/scripts/jquery.imgareaselect.pack.js"></script>
+    <script type="text/javascript" src="autocomplete.js"></script>
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/ui-lightness/jquery-ui.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="imgareaselect/css/imgareaselect-default.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="names.css" type="text/css" media="all" />
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('#searchimage').imgAreaSelect({
+            handles: false,
+            persistent: true,
+            fadeSpeed: 1.0,
+            resizable: false,
+            movable: false
+        });
+    });
+    </script>
+  </head>
+  <body>
+    <div class="widget">
+      <p><label for="name">Enter your name: </label><input id="name"></p>
+    </div>
+    <img src="names.jpg" id="searchimage" />
+  </body>
+</html>
