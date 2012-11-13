@@ -2,6 +2,15 @@ body {
   padding: 20px;
   font-family: sans-serif;
   background: rgba(238, 238, 238, 1);
+  color: white;
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+p {
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
 }
 
 .widget {
@@ -25,11 +34,20 @@ body {
 
 input {
   font-size: 20px;
-  width: 200px;
+  width: 350px;
 }
 
 .ui-autocomplete {
   width: 200px;
   list-style: none;
   padding: 5px;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  border-radius: 0 !important;
+}
+
+.ui-autocomplete a {
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  border-radius: 0 !important;
 }
