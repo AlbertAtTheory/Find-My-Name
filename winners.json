@@ -1,124 +1,723 @@
 [
     {
-      "title" : "Matthieu Franciosa",
-      "x1" : 10,
-      "y1" : 10,
-      "x2" : 293,
-      "y2" : 35
+      "title" : "Josies Boy",
+      "x1" : 19,
+      "y1" : 19,
+      "x2" : 148,
+      "y2" : 34
+    },
+    {
+      "title" : "Natalia Bartnicka",
+      "x1" : 148,
+      "y1" : 19,
+      "x2" : 307,
+      "y2" : 34
+    },
+    {
+      "title" : "Ashley Jarvis",
+      "x1" : 307,
+      "y1" : 19,
+      "x2" : 502,
+      "y2" : 34
+    },
+    {
+      "title" : "骏 唐",
+      "x1" : 502,
+      "y1" : 19,
+      "x2" : 580,
+      "y2" : 34
+    },
+    {
+      "title" : "Bernie McArthur",
+      "x1" : 19,
+      "y1" : 32,
+      "x2" : 214,
+      "y2" : 47
+    },
+    {
+      "title" : "Vlad Vataselu",
+      "x1" : 214,
+      "y1" : 32,
+      "x2" : 410,
+      "y2" : 47
+    },
+    {
+      "title" : "Edgar Quesada",
+      "x1" : 410,
+      "y1" : 32,
+      "x2" : 580,
+      "y2" : 47
+    },
+    {
+      "title" : "Vinit Dewani",
+      "x1" : 19,
+      "y1" : 46,
+      "x2" : 150,
+      "y2" : 61
+    },
+    {
+      "title" : "Çağatay Çetin",
+      "x1" : 150,
+      "y1" : 46,
+      "x2" : 428,
+      "y2" : 61
+    },
+    {
+      "title" : "Maciej Korolko",
+      "x1" : 428,
+      "y1" : 46,
+      "x2" : 580,
+      "y2" : 61
+    },
+    {
+      "title" : "Danielle Mckee",
+      "x1" : 19,
+      "y1" : 59,
+      "x2" : 230,
+      "y2" : 74
+    },
+    {
+      "title" : "Aleksandr Polischuk",
+      "x1" : 373,
+      "y1" : 59,
+      "x2" : 580,
+      "y2" : 74
+    },
+    {
+      "title" : "Александр S.",
+      "x1" : 19,
+      "y1" : 74,
+      "x2" : 170,
+      "y2" : 89
+    },
+    {
+      "title" : "John Doherty",
+      "x1" : 374,
+      "y1" : 74,
+      "x2" : 580,
+      "y2" : 89
+    },
+    {
+      "title" : "Stefan D.",
+      "x1" : 19,
+      "y1" : 87,
+      "x2" : 170,
+      "y2" : 102
+    },
+    {
+      "title" : "Chantelle Chambers",
+      "x1" : 374,
+      "y1" : 87,
+      "x2" : 580,
+      "y2" : 102
+    },
+    {
+      "title" : "Paul B.",
+      "x1" : 19,
+      "y1" : 102,
+      "x2" : 170,
+      "y2" : 117
+    },
+    {
+      "title" : "Michał Szewc",
+      "x1" : 374,
+      "y1" : 102,
+      "x2" : 491,
+      "y2" : 117
+    },
+    {
+      "title" : "Sim T.",
+      "x1" : 491,
+      "y1" : 102,
+      "x2" : 580,
+      "y2" : 117
+    },
+    {
+      "title" : "Эрик Арушанов",
+      "x1" : 19,
+      "y1" : 116,
+      "x2" : 140,
+      "y2" : 131
+    },
+    {
+      "title" : "Anton Ardeev",
+      "x1" : 140,
+      "y1" : 116,
+      "x2" : 452,
+      "y2" : 131
+    },
+    {
+      "title" : "Damian Cwynar",
+      "x1" : 452,
+      "y1" : 116,
+      "x2" : 580,
+      "y2" : 131
+    },
+    {
+      "title" : "All Quari",
+      "x1" : 19,
+      "y1" : 130,
+      "x2" : 170,
+      "y2" : 145
+    },
+    {
+      "title" : "Andrei Khatskevich",
+      "x1" : 374,
+      "y1" : 130,
+      "x2" : 580,
+      "y2" : 145
+    },
+    {
+      "title" : "Tomek Talaska",
+      "x1" : 19,
+      "y1" : 144,
+      "x2" : 170,
+      "y2" : 159
+    },
+    {
+      "title" : "Evan Henderson",
+      "x1" : 374,
+      "y1" : 144,
+      "x2" : 580,
+      "y2" : 159
+    },
+    {
+      "title" : "Alessandro Spadaro",
+      "x1" : 19,
+      "y1" : 158,
+      "x2" : 170,
+      "y2" : 173
+    },
+    {
+      "title" : "Ray Gastet",
+      "x1" : 374,
+      "y1" : 158,
+      "x2" : 498,
+      "y2" : 173
+    },
+    {
+      "title" : "智毅 何",
+      "x1" : 498,
+      "y1" : 158,
+      "x2" : 580,
+      "y2" : 173
+    },
+    {
+      "title" : "Дмитрий Лещинский",
+      "x1" : 19,
+      "y1" : 172,
+      "x2" : 240,
+      "y2" : 187
+    },
+    {
+      "title" : "Esteban Jiménez",
+      "x1" : 374,
+      "y1" : 172,
+      "x2" : 580,
+      "y2" : 187
+    },
+    {
+      "title" : "Alex Gillon",
+      "x1" : 19,
+      "y1" : 186,
+      "x2" : 195,
+      "y2" : 201
+    },
+    {
+      "title" : "Andre Coppa",
+      "x1" : 240,
+      "y1" : 186,
+      "x2" : 468,
+      "y2" : 201
+    },
+    {
+      "title" : "Alberto Carr",
+      "x1" : 468,
+      "y1" : 186,
+      "x2" : 580,
+      "y2" : 201
+    },
+    {
+      "title" : "Grzegorz Mielech",
+      "x1" : 19,
+      "y1" : 200,
+      "x2" : 177,
+      "y2" : 215
+    },
+    {
+      "title" : "Nelsok J",
+      "x1" : 177,
+      "y1" : 200,
+      "x2" : 439,
+      "y2" : 215
+    },
+    {
+      "title" : "Павел Иванов",
+      "x1" : 439,
+      "y1" : 200,
+      "x2" : 580,
+      "y2" : 215
+    },
+    {
+      "title" : "Jay Warren",
+      "x1" : 19,
+      "y1" : 214,
+      "x2" : 144,
+      "y2" : 229
+    },
+    {
+      "title" : "Gabriel Thomaz",
+      "x1" : 144,
+      "y1" : 214,
+      "x2" : 417,
+      "y2" : 229
+    },
+    {
+      "title" : "Антон Ковтун",
+      "x1" : 417,
+      "y1" : 214,
+      "x2" : 580,
+      "y2" : 229
+    },
+    {
+      "title" : "Simon Dickinson",
+      "x1" : 19,
+      "y1" : 228,
+      "x2" : 207,
+      "y2" : 243
+    },
+    {
+      "title" : "Oguz Baş",
+      "x1" : 207,
+      "y1" : 228,
+      "x2" : 455,
+      "y2" : 243
+    },
+    {
+      "title" : "Onur Olcay",
+      "x1" : 455,
+      "y1" : 228,
+      "x2" : 580,
+      "y2" : 243
+    },
+    {
+      "title" : "Przemysław Świerczek",
+      "x1" : 19,
+      "y1" : 242,
+      "x2" : 199,
+      "y2" : 257
+    },
+    {
+      "title" : "Юрий Сливка",
+      "x1" : 199,
+      "y1" : 242,
+      "x2" : 494,
+      "y2" : 257
+    },
+    {
+      "title" : "JFR",
+      "x1" : 494,
+      "y1" : 242,
+      "x2" : 580,
+      "y2" : 257
+    },
+    {
+      "title" : "Юрий Сливка",
+      "x1" : 19,
+      "y1" : 256,
+      "x2" : 146,
+      "y2" : 271
+    },
+    {
+      "title" : "Rustam Abbasov",
+      "x1" : 146,
+      "y1" : 256,
+      "x2" : 425,
+      "y2" : 271
+    },
+    {
+      "title" : "Florian Lafani",
+      "x1" : 425,
+      "y1" : 256,
+      "x2" : 580,
+      "y2" : 271
+    },
+    {
+      "title" : "Peter Draddy",
+      "x1" : 19,
+      "y1" : 270,
+      "x2" : 153,
+      "y2" : 285
+    },
+    {
+      "title" : "Robert Guzek",
+      "x1" : 153,
+      "y1" : 270,
+      "x2" : 416,
+      "y2" : 285
+    },
+    {
+      "title" : "Hollie Roberts",
+      "x1" : 416,
+      "y1" : 270,
+      "x2" : 580,
+      "y2" : 285
+    },
+    {
+      "title" : "Stefan Ilg",
+      "x1" : 19,
+      "y1" : 284,
+      "x2" : 154,
+      "y2" : 299
+    },
+    {
+      "title" : "Bartek Matera",
+      "x1" : 154,
+      "y1" : 284,
+      "x2" : 424,
+      "y2" : 299
+    },
+    {
+      "title" : "Kamil Stalica",
+      "x1" : 424,
+      "y1" : 284,
+      "x2" : 580,
+      "y2" : 299
+    },
+    {
+      "title" : "Jacob Nowakowski",
+      "x1" : 19,
+      "y1" : 298,
+      "x2" : 208,
+      "y2" : 313
+    },
+    {
+      "title" : "Igor Pokhabov",
+      "x1" : 208,
+      "y1" : 298,
+      "x2" : 476,
+      "y2" : 313
+    },
+    {
+      "title" : "Egon Thiago",
+      "x1" : 476,
+      "y1" : 298,
+      "x2" : 580,
+      "y2" : 313
+    },
+    {
+      "title" : "Артем Новиков",
+      "x1" : 19,
+      "y1" : 312,
+      "x2" : 158,
+      "y2" : 327
+    },
+    {
+      "title" : "Tomek Mielec",
+      "x1" : 158,
+      "y1" : 312,
+      "x2" : 424,
+      "y2" : 327
+    },
+    {
+      "title" : "Ronald Bajura",
+      "x1" : 424,
+      "y1" : 312,
+      "x2" : 580,
+      "y2" : 327
+    },
+    {
+      "title" : "Andrea Scherini",
+      "x1" : 19,
+      "y1" : 326,
+      "x2" : 141,
+      "y2" : 341
+    },
+    {
+      "title" : "Алексей Буянов",
+      "x1" : 141,
+      "y1" : 326,
+      "x2" : 420,
+      "y2" : 341
+    },
+    {
+      "title" : "Marco Hofmann",
+      "x1" : 420,
+      "y1" : 326,
+      "x2" : 580,
+      "y2" : 341
+    },
+    {
+      "title" : "姚 帅",
+      "x1" : 19,
+      "y1" : 340,
+      "x2" : 84,
+      "y2" : 355
+    },
+    {
+      "title" : "Will Bell",
+      "x1" : 85,
+      "y1" : 340,
+      "x2" : 237,
+      "y2" : 355
+    },
+    {
+      "title" : "Frederik Schumacher",
+      "x1" : 374,
+      "y1" : 340,
+      "x2" : 580,
+      "y2" : 355
+    },
+    {
+      "title" : "Neil Dibden",
+      "x1" : 19,
+      "y1" : 354,
+      "x2" : 205,
+      "y2" : 369
+    },
+    {
+      "title" : "Onur Duman",
+      "x1" : 205,
+      "y1" : 354,
+      "x2" : 463,
+      "y2" : 369
+    },
+    {
+      "title" : "Robert Guzek",
+      "x1" : 463,
+      "y1" : 354,
+      "x2" : 580,
+      "y2" : 369
+    },
+    {
+      "title" : "Marek Anuszewski",
+      "x1" : 19,
+      "y1" : 368,
+      "x2" : 161,
+      "y2" : 383
+    },
+    {
+      "title" : "Kayahan Uluc",
+      "x1" : 161,
+      "y1" : 368,
+      "x2" : 420,
+      "y2" : 383
+    },
+    {
+      "title" : "John Hunt",
+      "x1" : 420,
+      "y1" : 368,
+      "x2" : 580,
+      "y2" : 383
+    },
+    {
+      "title" : "Joerg Eutebach",
+      "x1" : 19,
+      "y1" : 382,
+      "x2" : 178,
+      "y2" : 397
+    },
+    {
+      "title" : "Ivan Isada",
+      "x1" : 178,
+      "y1" : 382,
+      "x2" : 440,
+      "y2" : 397
+    },
+    {
+      "title" : "Kouiti Kosiyama",
+      "x1" : 440,
+      "y1" : 382,
+      "x2" : 580,
+      "y2" : 397
+    },
+    {
+      "title" : "Arek Hetmański",
+      "x1" : 19,
+      "y1" : 396,
+      "x2" : 148,
+      "y2" : 411
+    },
+    {
+      "title" : "Andrea Scherini",
+      "x1" : 148,
+      "y1" : 396,
+      "x2" : 415,
+      "y2" : 411
+    },
+    {
+      "title" : "Arek Kowalski",
+      "x1" : 415,
+      "y1" : 396,
+      "x2" : 580,
+      "y2" : 411
+    },
+    {
+      "title" : "Саша Плотников",
+      "x1" : 19,
+      "y1" : 410,
+      "x2" : 153,
+      "y2" : 425
+    },
+    {
+      "title" : "Adrian Michalak",
+      "x1" : 153,
+      "y1" : 410,
+      "x2" : 418,
+      "y2" : 425
+    },
+    {
+      "title" : "Ruhama Jheinys",
+      "x1" : 418,
+      "y1" : 410,
+      "x2" : 580,
+      "y2" : 425
+    },
+    {
+      "title" : "Дамир Залибеков",
+      "x1" : 19,
+      "y1" : 424,
+      "x2" : 160,
+      "y2" : 439
+    },
+    {
+      "title" : "Özgür Akpınar",
+      "x1" : 160,
+      "y1" : 424,
+      "x2" : 422,
+      "y2" : 439
+    },
+    {
+      "title" : "Marcin Hanusek",
+      "x1" : 422,
+      "y1" : 424,
+      "x2" : 580,
+      "y2" : 439
+    },
+    {
+      "title" : "Artyom Darovskikh",
+      "x1" : 19,
+      "y1" : 438,
+      "x2" : 155,
+      "y2" : 453
+    },
+    {
+      "title" : "Yeferson Pineda",
+      "x1" : 155,
+      "y1" : 438,
+      "x2" : 428,
+      "y2" : 453
+    },
+    {
+      "title" : "Ivan Deyashkin",
+      "x1" : 428,
+      "y1" : 438,
+      "x2" : 580,
+      "y2" : 453
     },
     {
       "title" : "Mark Borowiak",
-      "x1" : 295,
-      "y1" : 10,
-      "x2" : 500,
-      "y2" : 35
+      "x1" : 19,
+      "y1" : 452,
+      "x2" : 238,
+      "y2" : 467
     },
     {
-      "title" : "Bartek Matera"
+      "title" : "Tobias Heizmann",
+      "x1" : 374,
+      "y1" : 452,
+      "x2" : 580,
+      "y2" : 467
     },
     {
-      "title" : "Konrad Nowak"
+      "title" : "Matthieu Franciosa",
+      "x1" : 19,
+      "y1" : 466,
+      "x2" : 183,
+      "y2" : 481
     },
     {
-      "title" : "Francesco Cotugno"
+      "title" : "Mauricio Bedoya Gómez",
+      "x1" : 183,
+      "y1" : 466,
+      "x2" : 580,
+      "y2" : 481
     },
     {
-      "title" : "Mateusz Zielinski"
+      "title" : "Юрий Макурин",
+      "x1" : 19,
+      "y1" : 480,
+      "x2" : 157,
+      "y2" : 495
     },
     {
-      "title" : "Jesselito Castro"
+      "title" : "Lucas Zimerer Costa",
+      "x1" : 157,
+      "y1" : 480,
+      "x2" : 449,
+      "y2" : 495
     },
     {
-      "title" : "Maciej Korolko"
+      "title" : "Jorge Rodriguez",
+      "x1" : 449,
+      "y1" : 480,
+      "x2" : 580,
+      "y2" : 495
     },
     {
-      "title" : "Filip Trepka"
+      "title" : "Gaetano Iacono",
+      "x1" : 19,
+      "y1" : 494,
+      "x2" : 165,
+      "y2" : 509
     },
     {
-      "title" : "Paul B"
+      "title" : "Zach Brown",
+      "x1" : 165,
+      "y1" : 494,
+      "x2" : 450,
+      "y2" : 509
     },
     {
-      "title" : "Krzystztof Machowski"
+      "title" : "Alican Bayraktar",
+      "x1" : 450,
+      "y1" : 494,
+      "x2" : 580,
+      "y2" : 509
     },
     {
-      "title" : "Damian Krysa"
+      "title" : "Muhammet Ali Öztürk",
+      "x1" : 19,
+      "y1" : 508,
+      "x2" : 238,
+      "y2" : 523
     },
     {
-      "title" : "Kamil Stalica"
+      "title" : "Austin Bubba",
+      "x1" : 374,
+      "y1" : 508,
+      "x2" : 580,
+      "y2" : 523
     },
     {
-      "title" : "Danielle Mckee"
+      "title" : "Mylene Manuel",
+      "x1" : 19,
+      "y1" : 522,
+      "x2" : 207,
+      "y2" : 537
     },
     {
-      "title" : "Chris Marco, US"
+      "title" : "Guilherme Savio",
+      "x1" : 207,
+      "y1" : 522,
+      "x2" : 386,
+      "y2" : 537
     },
     {
-      "title" : "Lavalle Gregory, France"
-    },
-    {
-      "title" : "Pawel Marach, Polska"
-    },
-    {
-      "title" : "Florian Lafani, France"
-    },
-    {
-      "title" : "Rich Fosler, United States"
-    },
-    {
-      "title" : "Sim T, Denmark"
-    },
-    {
-      "title" : "Francois Coetsee, South Africa"
-    },
-    {
-      "title" : "Joerg Eutebach, Deutschland"
-    },
-    {
-      "title" : "Brett Romer, United States"
-    },
-    {
-      "title" : "Vinit Dewani, India"
-    },
-    {
-      "title" : "Lut Tul, T�rkiye"
-    },
-    {
-      "title" : "Varun Sastry, United States"
-    },
-    {
-      "title" : "Jacob Nowakoski, Polska"
-    },
-    {
-      "title" : "Mladen Nesic, Ireland"
-    },
-    {
-      "title" : "Jordan Coren, United States"
-    },
-    {
-      "title" : "Jayce Griffin, Luxembourg"
-    },
-    {
-      "title" : "Alex Brown, United States"
-    },
-    {
-      "title" : "Ahmet Dogan Triyaki, T�rkiye"
-    },
-    {
-      "title" : "B�nyamin G�rhan, T�rkiya"
-    },
-    {
-      "title" : "Cheryl Timbrook, United States"
-    },
-    {
-      "title" : "Teresa O'donovan, United Kingdom"
-    },
-    {
-      "title" : "Kayra Ay, Australia"
-    },
-    {
-      "title" : "Michael Startnes, United States"
-    },
-    {
-      "title" : "Jeremy Thompson, United States"
+      "title" : "Andreas Jahn",
+      "x1" : 386,
+      "y1" : 522,
+      "x2" : 580,
+      "y2" : 537
     }
 ]
